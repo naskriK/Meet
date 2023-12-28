@@ -40,6 +40,15 @@
 
 :root {
   --primary-ff: "Red Hat Display", sans-serif;
+
+  --color-heading: #28283d;
+  --color-text: #87879d;
+  --color-neutral: #ffffff;
+
+  --color--primary: #4d96a9;
+  --color--primary-lighter: #6eadbd;
+  --color-secondary: ##855fb1;
+  --color-secondary-lighter: #9d7fc1;
 }
 
 *,
